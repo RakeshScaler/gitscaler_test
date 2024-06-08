@@ -1,2 +1,3 @@
 Hi this is my first commit.
 you are one step ahead from your goal.
+I am on remote now you have to fetch it
